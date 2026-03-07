@@ -1,0 +1,17 @@
+project:
+  name: research-proj-template
+  stage: benchmark
+  owner: your-name
+
+experiment:
+  name: baseline
+  description: Baseline or ablation configuration.
+  metric: throughput
+
+runtime:
+  device: cpu
+  seed: 42
+  output_dir: artifacts/runs/baseline
+
+data:
+  dataset: data/processed/example_dataset

@@ -1,0 +1,17 @@
+project:
+  name: research-proj-template
+  stage: experiment
+  owner: your-name
+
+experiment:
+  name: main
+  description: Main experiment configuration.
+  metric: validation_score
+
+runtime:
+  device: cpu
+  seed: 42
+  output_dir: artifacts/runs/main
+
+data:
+  dataset: data/processed/example_dataset

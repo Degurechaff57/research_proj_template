@@ -1,0 +1,17 @@
+project:
+  name: research-proj-template
+  stage: template
+  owner: your-name
+
+experiment:
+  name: demo
+  description: Minimal reusable configuration for a new project.
+  metric: placeholder_metric
+
+runtime:
+  device: cpu
+  seed: 42
+  output_dir: artifacts/runs/demo
+
+data:
+  dataset: data/processed/example_dataset
