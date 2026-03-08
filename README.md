@@ -225,3 +225,7 @@ If you want this README to help with AI infra positioning, prioritize showing:
 - one engineering decision you made to remove it
 - one benchmark proving that the change mattered
 - one clean execution path from setup to reproduction
+
+## Acknowledgement
+
+We thanks the free reference provided by Cookiecutter Data Science.
