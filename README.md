@@ -228,4 +228,4 @@ If you want this README to help with AI infra positioning, prioritize showing:
 
 ## Acknowledgement
 
-We thanks the free reference provided by (Cookiecutter Data Science)[https://github.com/drivendataorg/cookiecutter-data-science].
+We thanks the free reference provided by [Cookiecutter Data Science](https://github.com/drivendataorg/cookiecutter-data-science).
